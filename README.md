@@ -11,7 +11,7 @@ This project helps in **early disease diagnosis**, crop protection, and smarter 
 ### 📌 GitHub Repo
 `xai-plant-disease-detection`
 
-📁 *Get Jupyter Notebook + Keras Model File:*  
+### 📁 Get Jupyter Notebook + Keras Model File:  
 https://drive.google.com/drive/folders/19DNtBwh-G0flFeckGob47MXi4yJJjCFm?usp=sharing
 
 ### 🌐 Live Demo
