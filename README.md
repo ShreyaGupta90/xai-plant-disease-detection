@@ -12,7 +12,7 @@ This project helps in **early disease diagnosis**, crop protection, and smarter 
 `xai-plant-disease-detection`
 
 ### 🌐 Live Demo
-https://huggingface.co/spaces/ShreyaGupta90/CropDiseaseIdentify
+https://huggingface.co/spaces/ShreyaGupta90/xai_plant_disease_detection
 
 ---
 
@@ -133,6 +133,20 @@ Outputs include:
 - Grad-CAM Heatmap  
 
 ---
+
+  ---
+
+  ## 🧠 main.py Output (FastAPI UI)
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/9ea3f452-f9e7-42e1-8823-01fbc490f95b" />
+  </p>
+<img width="1920" height="1020" alt="Screenshot 2026-04-23 001925" src="https://github.com/user-attachments/assets/fb8907f2-4164-4ea9-a66a-acc7774cb0cd" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-23 002012" src="https://github.com/user-attachments/assets/64011e73-d807-4f3f-ac27-37e4601cf1b9" />
+
+
+
+  ---
 
 ## 🚀 Future Enhancements
 
