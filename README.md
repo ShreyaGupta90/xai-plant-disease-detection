@@ -1,4 +1,4 @@
-# 🌿 XAI Plant Disease Detection using Deep Learning + FastAPI
+# 🌿 XAI Plant Disease Detection using CNN + FastAPI
 
 An intelligent web-based system that detects **plant leaf diseases** using a **Convolutional Neural Network (CNN)** and explains predictions using **Grad-CAM (Explainable AI)**.
 
@@ -11,7 +11,7 @@ This project helps in **early disease diagnosis**, crop protection, and smarter 
 ### 📌 GitHub Repo
 `xai-plant-disease-detection`
 
-### 📁 Get Jupyter Notebook + Keras Model File:  
+### 📁 Get Jupyter Notebook + Trained Model Files
 https://drive.google.com/drive/folders/19DNtBwh-G0flFeckGob47MXi4yJJjCFm?usp=sharing
 
 ### 🌐 Live Demo
@@ -92,7 +92,7 @@ The model helps farmers, students, and researchers identify diseases quickly thr
 
 ## 📊 Dataset Highlights
 
-- 📁 87K+ Leaf Images  
+- 📁 ~87K+ Leaf Images
 - 🌿 Multiple Crops Included  
 - 🦠 38 Disease / Healthy Classes  
 
@@ -121,7 +121,7 @@ This improves trust, transparency, and interpretability.
 
 ---
 
-## 💻 Web App Output
+## 💻 Web Application Preview
 
 Upload Leaf Image → Predict Disease
 
@@ -137,7 +137,7 @@ Outputs include:
 
 ---
 
-## 🧠 main.py Output (FastAPI UI)
+## 📸 Application Screenshots
 
 <img width="1920" height="1020" alt="Screenshot 2026-04-23 001925" src="https://github.com/user-attachments/assets/fb8907f2-4164-4ea9-a66a-acc7774cb0cd" />
 <img width="1920" height="1020" alt="Screenshot 2026-04-23 002012" src="https://github.com/user-attachments/assets/64011e73-d807-4f3f-ac27-37e4601cf1b9" />
@@ -169,13 +169,17 @@ Outputs include:
 
 ## 🙌 Author
 
-  **Shreya Gupta**  
-  Aspiring AI/ML Engineer | Deep Learning Enthusiast | AI for Impact
+**Shreya Gupta**  
+Aspiring AI/ML Engineer | Deep Learning Enthusiast | AI for Impact  
 
-  ---
-
-  ✨ *From Leaves to Learning 🍃*  
-  ✨ *From Agriculture to Intelligence 🌍*  
-  ✨ *AI that helps fields flourish. 🚀* 
+⭐ Built for AI-powered smart agriculture and explainable crop diagnosis.
   
+---
+
+## ✨ Vision
+
+*From Leaves to Learning 🍃*  
+*From Agriculture to Intelligence 🌍*  
+*AI that helps fields flourish 🚀*
+
 ---
