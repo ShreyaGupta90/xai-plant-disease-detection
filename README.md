@@ -34,7 +34,7 @@ The model helps farmers, students, and researchers identify diseases quickly thr
 ## 🧠 Key Features
 
 - 🌿 Plant leaf disease classification  
-- 🧠 Deep Learning CNN model  
+- 🧠 Deep Learning CNN model
 - 🔥 Grad-CAM Explainable AI heatmap  
 - 📊 Prediction confidence percentage  
 - 🌡 Disease severity estimation  
@@ -136,14 +136,14 @@ Outputs include:
 
 ## 🚀 Future Enhancements
 
--📱 Android / iOS mobile app
--🌍 Multilingual farmer support
--📷 Real-time camera detection
--☁ Cloud database reports
--📍 Geo-based disease alerts
--🤖 Better transformer models
--🌿 Fertilizer recommendation module
-
+- 📱 Android / iOS mobile app
+- 🌍 Multilingual farmer support
+- 📷 Real-time camera detection
+- ☁ Cloud database reports
+- 📍 Geo-based disease alerts
+- 🤖 Better transformer models
+- 🌿 Fertilizer recommendation module
+  
 ---
 
 ## 🏆 Why This Project Stands Out
@@ -159,15 +159,13 @@ Outputs include:
 
 ## 🙌 Author
 
-Shreya Gupta
-Aspiring AI/ML Engineer | Deep Learning Enthusiast | AI for Impact
+  **Shreya Gupta**  
+  Aspiring AI/ML Engineer | Deep Learning Enthusiast  
 
----
+  ---
 
-## ✨ Vision
-
-From Leaves to Learning 🍃
-From Agriculture to Intelligence 🌍
-AI that helps fields flourish. 🚀
-
+  ✨ *From Leaves to Learning 🍃*  
+  ✨ *From Agriculture to Intelligence 🌍*  
+  ✨ *AI that helps fields flourish. 🚀* 
+  
 ---
