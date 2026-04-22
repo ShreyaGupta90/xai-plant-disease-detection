@@ -148,19 +148,19 @@ Outputs include:
 
 ## 🏆 Why This Project Stands Out
 
--Real-world agriculture problem solving
--Deep Learning implementation
--Explainable AI integration
--End-to-end deployment
--User-friendly interface
--Strong portfolio project for AI/ML roles
-
+- Real-world agriculture problem solving
+- Deep Learning implementation
+- Explainable AI integration
+- End-to-end deployment
+- User-friendly interface
+- Strong portfolio project for AI/ML roles
+  
 ---
 
 ## 🙌 Author
 
   **Shreya Gupta**  
-  Aspiring AI/ML Engineer | Deep Learning Enthusiast  
+  Aspiring AI/ML Engineer | Deep Learning Enthusiast | AI for Impact
 
   ---
 
