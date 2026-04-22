@@ -132,14 +132,14 @@ Outputs include:
 - Original Image  
 - Grad-CAM Heatmap  
 
-  ---
+---
 
-  ## 🧠 main.py Output (FastAPI UI)
+## 🧠 main.py Output (FastAPI UI)
 
 <img width="1920" height="1020" alt="Screenshot 2026-04-23 001925" src="https://github.com/user-attachments/assets/fb8907f2-4164-4ea9-a66a-acc7774cb0cd" />
 <img width="1920" height="1020" alt="Screenshot 2026-04-23 002012" src="https://github.com/user-attachments/assets/64011e73-d807-4f3f-ac27-37e4601cf1b9" />
 
-  ---
+---
 
 ## 🚀 Future Enhancements
 
